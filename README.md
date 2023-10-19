@@ -7,6 +7,10 @@
 
 - 📫 How to reach me **vladandreifurtuna@gmail.com**
 
+<h3 align="left">Projects:</h3>
+<p align="left">
+<a href="https://djangoblogwebapp-5b799fbfaae8.herokuapp.com" target="blank">Full featured blog web app using django</a>
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/vlad_furtuna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vlad_furtuna" height="30" width="40" /></a>
