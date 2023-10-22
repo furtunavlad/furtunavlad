@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vlad</h1>
-<h3 align="center">Highly motivated Computer Science Student with a love for problem-solving and software development</h3>
+<h3 align="center">Highly motivated Computer Science student with a love for problem-solving and software development</h3>
 
 - 🔭 I’m currently working on **numerous personal projects to improve my knowledge**
 
