@@ -10,9 +10,11 @@
 ---
 
 <h1 align="left">Projects:</h1>
+<h3 align="left"><a href="https://js-rock-paper-scissors-black.vercel.app">Rock Paper Scissors</a></h3>
+<p><ul><li>Rock, paper, scissors game created using javascript and css</li></ul></p>
 <h3 align="left"><a href="https://django-ecom-web-app-d45cca621219.herokuapp.com/">Django Ecommerce</a></h3>
 <p><ul><li>an e-commerce web application featuring javascript integration, accounts, cart and checkout
-functionality for guests/users (you can even make an order!)</li></ul></p>
+functionality for guests/users</li></ul></p>
 <h3 align="left"><a href="https://djangoblogwebapp-5b799fbfaae8.herokuapp.com/">Django Blog</a></h3>
 <p><ul><li>full-featured web application with features such as: user authentication, user profile
 management, blogging functionality and pagination</li></ul></p>
