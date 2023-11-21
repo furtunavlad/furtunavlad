@@ -10,12 +10,14 @@
 ---
 
 <h1 align="left">Projects:</h1>
+<h3 align="left"><a href="https://js-amazon-project.vercel.app/">Amazon Store</a></h3>
+<p><ul><li>Simple interactive amazon clone store, with many functionalities. Created by me using HTML, CSS and JS</li></ul></p>
 <h3 align="left"><a href="https://js-rock-paper-scissors-black.vercel.app">Rock Paper Scissors</a></h3>
 <p><ul><li>Rock, paper, scissors game created using javascript and css</li></ul></p>
-<h3 align="left"><a href="https://django-ecom-web-app-d45cca621219.herokuapp.com/">Django Ecommerce</a></h3>
+<h3 align="left"><a href="https://github.com/furtunavlad/djangoEcommerceWebApp">Django Ecommerce</a></h3>
 <p><ul><li>an e-commerce web application featuring javascript integration, accounts, cart and checkout
 functionality for guests/users</li></ul></p>
-<h3 align="left"><a href="https://djangoblogwebapp-5b799fbfaae8.herokuapp.com/">Django Blog</a></h3>
+<h3 align="left"><a href="https://github.com/furtunavlad/djangoWebApp">Django Blog</a></h3>
 <p><ul><li>full-featured web application with features such as: user authentication, user profile
 management, blogging functionality and pagination</li></ul></p>
 
