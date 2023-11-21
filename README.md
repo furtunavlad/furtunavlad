@@ -11,7 +11,7 @@
 
 <h1 align="left">Projects:</h1>
 <h3 align="left"><a href="https://js-amazon-project.vercel.app/">Amazon Store</a></h3>
-<p><ul><li>Simple interactive amazon clone store, with many functionalities. Created by me using HTML, CSS and JS</li></ul></p>
+<p><ul><li>Simple interactive amazon clone store, with many functionalities. Created by me using HTML, CSS and JavaScript</li></ul></p>
 <h3 align="left"><a href="https://js-rock-paper-scissors-black.vercel.app">Rock Paper Scissors</a></h3>
 <p><ul><li>Rock, paper, scissors game created using javascript and css</li></ul></p>
 <h3 align="left"><a href="https://github.com/furtunavlad/djangoEcommerceWebApp">Django Ecommerce</a></h3>
