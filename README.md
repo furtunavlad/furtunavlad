@@ -10,15 +10,17 @@
 ---
 
 <h1 align="left">Projects:</h1>
+<h3 align="left"><a href="https://ts-to-do-list-ten.vercel.app">To-Do list</a></h3>
+<p><ul><li>Simple To-Do list web app. My first project written in Typescript</li></ul></p>
 <h3 align="left"><a href="https://js-amazon-project.vercel.app/">Amazon Store</a></h3>
-<p><ul><li>Simple interactive amazon clone store, with many functionalities. Created by me using HTML, CSS and JavaScript</li></ul></p>
+<p><ul><li>Interactive amazon clone store, with many functionalities. Created by me using HTML, CSS and JavaScript</li></ul></p>
 <h3 align="left"><a href="https://js-rock-paper-scissors-black.vercel.app">Rock Paper Scissors</a></h3>
-<p><ul><li>Rock, paper, scissors game created using javascript and css</li></ul></p>
+<p><ul><li>Rock, paper, scissors game created using JavaScript and CSS</li></ul></p>
 <h3 align="left"><a href="https://github.com/furtunavlad/djangoEcommerceWebApp">Django Ecommerce</a></h3>
-<p><ul><li>an e-commerce web application featuring javascript integration, accounts, cart and checkout
+<p><ul><li>An e-commerce web application featuring javascript integration, accounts, cart and checkout
 functionality for guests/users</li></ul></p>
 <h3 align="left"><a href="https://github.com/furtunavlad/djangoWebApp">Django Blog</a></h3>
-<p><ul><li>full-featured web application with features such as: user authentication, user profile
+<p><ul><li>Full-featured web application with features such as: user authentication, user profile
 management, blogging functionality and pagination</li></ul></p>
 
 ---
