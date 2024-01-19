@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Typescript, Javascript**
 
-- 📫 How to reach me **vladandreifurtuna@gmail.com**
+- 📫 Reach me at **vladandreifurtuna@gmail.com**
 
 ---
 
