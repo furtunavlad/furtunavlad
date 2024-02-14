@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **numerous personal projects to improve my knowledge**
 
-- 🌱 I’m currently learning **React, Typescript, Javascript**
+- 🌱 I’m currently learning **Swift**
 
 - 📫 Reach me at **vladandreifurtuna@gmail.com**
 
