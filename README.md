@@ -14,20 +14,13 @@
 <p>Multiple small projects that i wrote during my learning journey with both UIKit and SwiftUI, such as: (you can find the rest in my repositories)</p>
 <p><ul><li><a href="https://github.com/furtunavlad/BarcodeScanner">BarcodeScanner</a>, <a href="https://github.com/furtunavlad/AppleFrameworks">AppleFrameworks</a>, <a href="https://github.com/furtunavlad/BetterRest">BetterRest</a> </li></ul></p>
 
-<h3 align="left"><a href="https://ts-to-do-list-ten.vercel.app">To-Do list</a></h3>
-<p><ul><li>Simple To-Do list web app. My first project written in Typescript</li></ul></p>
+<h3 align="left">Small Web Apps (Javascript/Typescript)</h3>
+<p><ul><li><a href="https://ts-to-do-list-ten.vercel.app">To-Do list</a>, <a href="https://js-amazon-project.vercel.app/">Amazon Store</a>, <a href="https://js-rock-paper-scissors-black.vercel.app">Rock Paper Scissors</a></p> </ul>
+  
+<h3 align="left"><a href="https://github.com/furtunavlad/djangoEcommerceWebApp">E-commerce Web App (django)</a></h3>
+<p><ul><li>An e-commerce web application featuring accounts, cart and checkout functionalities for guests/users</li></ul></p>
 
-<h3 align="left"><a href="https://js-amazon-project.vercel.app/">Amazon Store</a></h3>
-<p><ul><li>Interactive amazon clone store, with many functionalities. Created by me using HTML, CSS and JavaScript</li></ul></p>
-
-<h3 align="left"><a href="https://js-rock-paper-scissors-black.vercel.app">Rock Paper Scissors</a></h3>
-<p><ul><li>Rock, paper, scissors game created using JavaScript and CSS</li></ul></p>
-
-<h3 align="left"><a href="https://github.com/furtunavlad/djangoEcommerceWebApp">Django Ecommerce</a></h3>
-<p><ul><li>An e-commerce web application featuring javascript integration, accounts, cart and checkout
-functionality for guests/users</li></ul></p>
-
-<h3 align="left"><a href="https://github.com/furtunavlad/djangoWebApp">Django Blog</a></h3>
+<h3 align="left"><a href="https://github.com/furtunavlad/djangoWebApp">Blog (django)</a></h3>
 <p><ul><li>Full-featured web application with features such as: user authentication, user profile
 management, blogging functionality and pagination</li></ul></p>
 
