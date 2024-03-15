@@ -10,8 +10,10 @@
 ---
 
 <h1 align="left">Projects: (sorted by latest)</h1>
+<h3 align="left"><a href="https://github.com/furtunavlad/Appetizers">Food Ordering App</a></h3>
+<p>SwiftUI-based iOS app with 3 screens (Account, Menu and Order)</p>
 <h3 align="left">Small apps (Swift)</h3>
-<p>Multiple small projects that i wrote during my learning journey with both UIKit and SwiftUI, such as: (you can find the rest in my repositories)</p>
+<p>Multiple small projects that i wrote during my learning journey with both UIKit and SwiftUI, such as:</p>
 <p><ul><li><a href="https://github.com/furtunavlad/BarcodeScanner">BarcodeScanner</a>, <a href="https://github.com/furtunavlad/AppleFrameworks">AppleFrameworks</a>, <a href="https://github.com/furtunavlad/BetterRest">BetterRest</a> </li></ul></p>
 
 <h3 align="left">Small Web Apps (Javascript/Typescript)</h3>
